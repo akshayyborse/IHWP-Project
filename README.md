@@ -50,12 +50,12 @@ Understanding your Prakriti can help you make informed choices about diet, lifes
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/akshayyborse/IHWP-Project.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd prakriti-check
+   cd IHWP-Project
    ```
 
 3. Install dependencies:
@@ -98,7 +98,7 @@ yarn start
 ## Project Structure
 
 ```
-prakriti-check/
+IHWP-Project/
 ├── src/
 │   ├── app/                 # App Router pages
 │   │   ├── about/           # About page explaining Ayurveda
